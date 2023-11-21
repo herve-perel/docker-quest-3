@@ -1,1 +1,0 @@
-# docker-quest-3
